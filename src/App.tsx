@@ -400,11 +400,14 @@ function AppContent() {
         )}
       </main>
 
-      <footer className="max-w-2xl mx-auto px-6 py-10 text-center">
+      <footer className="max-w-2xl mx-auto px-6 py-10 text-center space-y-4">
         <div className="inline-flex items-center gap-2 px-4 py-2 bg-stone-100 rounded-full text-[10px] font-bold text-stone-400 uppercase tracking-widest">
           <Info size={12} />
           Local Storage Mode • Fully Offline
         </div>
+        <p className="text-[10px] font-bold text-stone-400 uppercase tracking-widest opacity-60">
+          © {new Date().getFullYear()} fisal cholakkal • All Rights Reserved
+        </p>
       </footer>
     </div>
   );

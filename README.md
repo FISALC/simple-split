@@ -12,3 +12,7 @@ This is a responsive web application for managing shared expenses.
    `npm install`
 2. Run the app:
    `npm run dev`
+
+---
+
+© 2026 fisal cholakkal • All Rights Reserved

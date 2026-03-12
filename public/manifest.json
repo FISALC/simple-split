@@ -1,0 +1,21 @@
+{
+  "name": "Simple Split",
+  "short_name": "Split",
+  "description": "Simple offline expense tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F8F7",
+  "theme_color": "#1C1917",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/split/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/split/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
